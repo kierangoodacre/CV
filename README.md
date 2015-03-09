@@ -43,7 +43,7 @@ I carried out a 3 year Engineer officer cadetship at Warsash Maritime Academy, t
 
 ## Education
 
-### Makers Academy - Dec to March
+### Makers Academy - Dec 2014 to March 2015
 
 - Curiosity and quest for knowledge
 - Independently learning as well as working in large teams
@@ -52,8 +52,9 @@ I carried out a 3 year Engineer officer cadetship at Warsash Maritime Academy, t
 - Ruby, Rails, Javascript, Node.js, Angular,js
 - Rspec, Jasmine, Mocha
 
-### Marine Engineering, Warsash Maritime Academy - 2008 to 2011
+### HND Marine Engineering, Warsash Maritime Academy - 2008 to 2011
 
 - Project Management
 - Leadership
 - Responsible for manning Engine rooms for Ultra Large Oil & Gas Tankers
+- Academic achievement, Maths & Science based subjects

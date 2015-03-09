@@ -23,7 +23,7 @@ Through Makers Academy we fully embraced all forms of agile development, which c
 - Agile, Kanban, TDD, BDD, User Stories, Regular Scrums
 - [Trend Mapper](https://github.com/kierangoodacre/TrendMapper), [Meshee](https://github.com/kierangoodacre/mesheeChat)
 
-### Business acumen
+### Business Acumen
 
 Before Makers I worked at a start up, which was trying to disrupt the recruitment industry. My role was based around user acquisition and new lead generation for the platform. The start up has now gone on to raise its first round VC money. The role involved looking after new clients and making sure the platform met their expectations.
 

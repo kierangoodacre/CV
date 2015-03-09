@@ -1,6 +1,6 @@
 ##Kieran Goodacre
 
-Email: kieran@shred-up.com
+###Email: kieran@shred-up.com
 
 A lover of all things that push the boundaries of what's achievable, this what attracted me to software development. I've worked in offshore renewables as a remotely operated vehicle pilot technician, worked at a VC funded start up in user acquisition and lead generation. Currently seeking a role as a developer at a firm with a strong social environment and a dedication to product craftmanship. Future employers will be impressed with my ability to fit into a team, whilst still maintaining the ability to work as an individual and look to add value wherever possible.
 

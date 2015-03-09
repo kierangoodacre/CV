@@ -30,7 +30,7 @@ Before Makers I worked at a start up, which was trying to disrupt the recruitmen
 - Helped grow the user base to 10 k users
 - Grew the client base by 20%
 
-### Remotely Operated Pilot Technician/Merchant Navy Engineer Officer
+### ROV Pilot Technician/Merchant Navy Engineer Officer
 
 I carried out a 3 year Engineer officer cadetship at Warsash Maritime Academy, through that I became qualified to become and Engineer Officer on any sized vessel(Ship) in the Merchant Navy. After my time as an engineer officer I was given the opportunity to become a remotely operated vehicle pilot, which gladly took up.
 

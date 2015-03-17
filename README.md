@@ -2,13 +2,13 @@
 
 ###Email: kieran@shred-up.com
 
-A lover of all things that push the boundaries of what's achievable, this what attracted me to software development. I've worked in offshore renewables as a remotely operated vehicle pilot technician, worked at a VC funded start up in user acquisition and lead generation. Currently seeking a role as a developer at a firm with a strong social environment and a dedication to product craftmanship. Future employers will be impressed with my ability to fit into a team, whilst still maintaining the ability to work as an individual and look to add value wherever possible.
+A lover of all things that push the boundaries of what's achievable, this what attracted me to software development. My pre-Makers background in offshore renewables as a remotely operated vehicle pilot technician and the work I carried out a now VC funded start up, I hope proves the perfect backdrop for a successful career in tech. Currently seeking a role as a developer at a firm with a strong personal development culuture and dedication to code craftsmanship. Future employers will be impressed with my ability to fit into a team, whilst still maintaining the ability to work as an individual and look to add value wherever possible.
 
 ## Skills
 
 ### Software Development & Desing
 
-Completing a 12 week software development course at Makers Academy meant I lived and breathed code, proving it be one of the most rewarding periods of my life. Makers exhumed the benefits of Object Orientated Design, TDD, BDD, Agile and personal development.
+Completing a 12 week software development course at Makers Academy and being selected as an alumni helper meant I lived and breathed code, proving it be one of the most rewarding periods of my life. Makers exhumed the benefits of Object Orientated Design, TDD, BDD, Agile and personal development.
 
 - "LEARNING TO LEARN"
 - LANGUAGES: Javascript, Ruby, HTML5, CSS3
@@ -54,6 +54,7 @@ I carried out a 3 year Engineer officer cadetship at Warsash Maritime Academy, t
 
 ### HND Marine Engineering, Warsash Maritime Academy - 2008 to 2011
 
+- Academic achievement, Maths & Science based subjects
 - Project Management
 - Leadership
 - Responsible for manning Engine rooms for Ultra Large Oil & Gas Tankers

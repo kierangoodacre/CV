@@ -2,7 +2,7 @@
 
 ###Email: kieran@shred-up.com
 
-A lover of all things that push the boundaries of what's achievable, this what attracted me to software development. My pre-Makers background in offshore renewables as a remotely operated vehicle pilot technician and the work I carried out a now VC funded start up, I hope proves the perfect backdrop for a successful career in tech. Currently seeking a role as a developer at a firm with a strong personal development culuture and dedication to code craftsmanship. Future employers will be impressed with my ability to fit into a team, whilst still maintaining the ability to work as an individual and look to add value wherever possible.
+A lover of all things that push the boundaries of what's achievable, this what attracted me to software development. My pre-Makers background in offshore renewables as a remotely operated vehicle pilot technician and the work I carried out a now VC funded start up, I hope proves the perfect backdrop for a successful career in tech. Currently seeking a role as a developer at a firm with a strong personal development culuture and dedication to code & design craftsmanship. Future employers will be impressed with my ability to fit into a team, whilst still maintaining the ability to work as an individual and look to add value wherever possible.
 
 ## Skills
 

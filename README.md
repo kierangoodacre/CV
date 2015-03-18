@@ -2,7 +2,7 @@
 
 ###Personal Statement
 
-A lover of all things that push the boundaries of what's achievable, this what attracted me to software development. My pre-Makers background in offshore renewables as a ROV pilot technician/Engineer and the work I carried out a now VC funded start up, I hope proves the perfect backdrop for a successful career in tech. Currently seeking a role as a developer at a firm with a strong personal development culuture and dedication to code & design craftsmanship. Future employers will be impressed with my ability to fit into a team, whilst still maintaining the ability to work as an individual and look to add value wherever possible.
+A lover of all things that push the boundaries of what's achievable, this what attracted me to software development. My pre-Makers background in offshore renewables as a ROV pilot technician/Engineer and the work I carried out a now VC funded start up, I hope proves the perfect backdrop for a successful career in tech. Currently seeking a role as a developer at a firm with a strong personal development culture and dedication to code & design craftsmanship. Future employers will be impressed with my ability to fit into a team, whilst still maintaining the ability to work as an individual and look to add value wherever possible.
 
 ## Skills
 
@@ -25,15 +25,15 @@ Through Makers Academy we fully embraced all forms of agile development, which c
 
 ### Business Acumen
 
-Before Makers I worked at a start up which was attempting to disrupt the recruitment industry. My role was based around user acquisition and lead generation for the platform. During my time there I helped reduce the cost of user aquisition through targeting new and cheaper eco systems, I also grew the client base through targeting SME's through a mixture of cold-calling and utilising my personal network.
+Before Makers I worked at a start up which was attempting to disrupt the recruitment industry. My role was based around user acquisition and lead generation for the platform. During my time there I helped reduce the cost of user acquisition through targeting new and cheaper eco systems, I also grew the client base through targeting SME's through a mixture of cold-calling and utilising my personal network.
 
 - Helped grow the user base to 10 k users
-- Reduced user aquisition costs
+- Reduced user acquisition costs
 - Grew the client base by 20%
 
 ### ROV Pilot Technician 2012 - 2014
 
-As a ROV vehicle pilot technician I was involved with installing cables for the offshore wind turbine industry, my role involved carrying out complex maintenance tasks on a range of equipment which was critycal to the completion of our goals, tipically in teams of 2-8 people. The secondary element of the job involved the piloting of the vehicle under tough and varied conditions.
+As a ROV vehicle pilot technician I was involved with installing cables for the offshore wind turbine industry, my role involved carrying out complex maintenance tasks on a range of equipment which was critical to the completion of our goals, typically in teams of 2-8 people. The secondary element of the job involved the piloting of the vehicle under tough and varied conditions.
 
 - Project Management, completing 3 major wind turbine projects
 - Leading teams of 2 - 8 people
@@ -43,11 +43,11 @@ As a ROV vehicle pilot technician I was involved with installing cables for the 
 
 ### Merchant Navy Engineer Officer 2008 - 2012
 
-My role involved the management and execution of our maintenance and operations on the ships(Tankers) crytical equipment, the tankers carried Oil & Gas. The role involved, team management, completing tasks within required timeframes and a huge emphasis on safety crytical problem solving.
+My role involved the management and execution of our maintenance and operations on the ships(Tankers) critical equipment, the tankers carried Oil & Gas. The role involved, team management, completing tasks within required timeframes and a huge emphasis on safety critical problem solving.
 
 - Working within tight deadlines
 - Man management
-- Exellent training
+- Excellent training
 
 ## Education
 

@@ -25,21 +25,29 @@ Through Makers Academy we fully embraced all forms of agile development, which c
 
 ### Business Acumen
 
-Before Makers I worked at a start up which was attempting to disrupt the recruitment industry. My role was based around user acquisition and new lead generation for the platform. The start up has now gone on to raise its first round VC money. The role also involved looking after new clients and making sure the platform met their expectations.
+Before Makers I worked at a start up which was attempting to disrupt the recruitment industry. My role was based around user acquisition and lead generation for the platform. During my time there I helped reduce the cost of user aquisition through targeting new and cheaper eco systems, I also grew the client base through targeting SME's through a mixture of cold-calling and utilising my personal network.
 
 - Helped grow the user base to 10 k users
+- Reduced user aquisition costs
 - Grew the client base by 20%
 
-### ROV Pilot Technician/Merchant Navy Engineer Officer
+### ROV Pilot Technician 2012 - 2014
 
-I carried out a 3 year Engineer officer cadetship at Warsash Maritime Academy, through that I became qualified to become and Engineer Officer on any sized vessel(Ship) in the Merchant Navy. After my time as an engineer officer I was given the opportunity to become a remotely operated vehicle pilot, which gladly took up.
+As a ROV vehicle pilot technician I was involved with installing cables for the offshore wind turbine industry, my role involved carrying out complex maintenance tasks on a range of equipment which was critycal to the completion of our goals, tipically in teams of 2-8 people. The secondary element of the job involved the piloting of the vehicle under tough and varied conditions.
 
-- Project Management
-- Managing a teams of 2 - 8 people
-- Leadership training
+- Project Management, completing 3 major wind turbine projects
+- Leading teams of 2 - 8 people
 - Problem solving in difficult conditions
 - Long working hours
 - Managing teams from diverse backgrounds
+
+### Merchant Navy Engineer Officer 2008 - 2012
+
+My role involved the management and execution of our maintenance and operations on the ships(Tankers) crytical equipment, the tankers carried Oil & Gas. The role involved, team management, completing tasks within required timeframes and a huge emphasis on safety crytical problem solving.
+
+- Working within tight deadlines
+- Man management
+- Exellent training
 
 ## Education
 

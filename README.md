@@ -14,7 +14,8 @@ Completing a 12 week software development course at Makers Academy and being sel
 - LANGUAGES: Javascript, Ruby, HTML5, CSS3
 - FRAMEWORKS: NodeJs, ,jQuery, ReactJs, Rails, Sinatra, Socket.io, ReactJs, 
 - TESTING: RSpec, Capybara, Selenium Webdriver, ShouldJs, Cucumber
-- EXAMPLES: [Trend Mapper](https://github.com/kierangoodacre/TrendMapper), [Meshee](https://github.com/kierangoodacre/mesheeChat), [Insta-clone](https://github.com/kierangoodacre/instagram_clone)
+- EXAMPLES: [TrendMapper](http://hipsterfication.herokuapp.com/), [Git TrendMapper] (https://github.com/kierangoodacre/trendmapper)
+- [Meshee](https://github.com/kierangoodacre/mesheeChat), [Insta-clone](https://github.com/kierangoodacre/instagram_clone)
 
 ### TDD, Agile Product Development
 

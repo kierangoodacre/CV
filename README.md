@@ -6,7 +6,7 @@ A lover of all things that push the boundaries, this what attracted me to softwa
 
 ## Skills
 
-### Software Development & Desing
+### Software Development & Design
 
 Completing a 12 week software development course at Makers Academy and being selected as an alumni helper meant I lived and breathed code, proving it be one of the most rewarding periods of my life. Makers exhumed the benefits of Object Orientated Design, TDD, BDD, Agile and personal development.
 

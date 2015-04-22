@@ -28,6 +28,7 @@ Through Makers Academy we fully embraced all forms of agile development, which c
 
 Before Makers I worked at a start up which was attempting to disrupt the recruitment industry. My role was based around user acquisition and lead generation for the platform. During my time there I helped reduce the cost of user acquisition through targeting new and cheaper eco systems, I also grew the client base through targeting SME's through a mixture of cold-calling and utilising my personal network.
 
+
 - Helped grow the user base to 10 k users
 - Reduced user acquisition costs
 - Grew the client base by 20%
